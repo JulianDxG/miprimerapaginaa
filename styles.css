@@ -91,6 +91,12 @@ header{
 
 /* CUERPO */
 
+.geeting{
+  color: #0c684c;
+  font-size: 25px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
 .main h3{
     margin-block-start: 180px;
     height: 20px;
